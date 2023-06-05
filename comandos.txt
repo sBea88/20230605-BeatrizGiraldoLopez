@@ -1,0 +1,50 @@
+Historial 
+
+   12  git init
+   13  git remote add origin https://github.com/sBea88/20230605-BeatrizGiraldoLopez.git
+   14  git remote -v
+   15  touch comandos.txt main.js index.html
+   16  git add .
+   17  git commit -m "commit 01 de Beatriz Giraldo López"
+   18  git push origin main
+   19  git branch -b feature
+   20  git checkout -b feature
+   21  mkdir Hardware
+   22  mkdir Software
+   23  mkdir SeguridadInformatica
+   24  cp Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resument.txt
+   25  cp Hardware/resumen.txt
+   26  cd Hardware
+   27  touch resumen.txt
+   28  cd ..
+   29  cd Software
+   30  touch resumen.txt
+   31  cd ..
+   32  cd SeguridadInformatica
+   33  touch resumen.txt
+   34  git add .
+   35  git commit -m "commit 02 de Beatriz Giraldo López"
+   36  git push origin feature
+   37  git switch main
+   38  git status
+   39  git switch feature
+   40  cd ..
+   41  git add .
+   42  git reset HEAD
+   43  git status
+   44  cd SeguridadInformatica/
+   45  git reset HEAD
+   46  git reset HEAD
+   47  cd ..
+   48  git status
+   49  git reset HEAD
+   50  git add .
+   51  git commit -m "commit 02 de Beatriz Giraldo López"
+   52  git push origin feature
+   53  git switch main
+   54  mv maiin.js "resumenHardware"
+   55  cdcd mvq
+   56  mv main.js resumentHardware.txt
+   57  mv index.html resumentSoftware.txt
+   58  git history
+   59  history

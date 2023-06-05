@@ -1,0 +1,5 @@
+Ejemplos de hardware
+
+1 Mother board
+2 Monitor
+3 GPU
